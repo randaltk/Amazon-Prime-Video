@@ -1,7 +1,7 @@
 # Amazon-Prime-Video
 > Interface Amazon Prime Video consumindo API do TMDB MOVIE
 
- Acesse a DEMO: 
+ Acesse a DEMO: https://amazon-prime-video.vercel.app/
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
 
