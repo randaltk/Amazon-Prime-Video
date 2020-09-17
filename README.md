@@ -1,8 +1,6 @@
 # Amazon-Prime-Video
 > Interface Amazon Prime Video consumindo API do TMDB MOVIE
 
-# Watchlist 
-
  Acesse a DEMO: 
 
 <a href="https://github.com/omariosouto/flappy-bird-devsoutinho/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/omariosouto/flappy-bird-devsoutinho?label=Randal%20TK"></a>
